@@ -12,4 +12,9 @@
 
 # 說明
 
-這個 Git Repo 是 [Rails 101](http://rails-101.logdown.com) 的部分公開資料。若您喜歡本書，請[付費購買支持](http://rails-101.logdown.com)。
+這份文件 是 [Rails 101](http://rails-101.logdown.com) 的部分公開資料。若您喜歡本書，請付費[購買支持](http://rails-101.logdown.com)。
+
+# Table of Content
+
+* [Buy a Mac]
+* []
