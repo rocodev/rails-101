@@ -64,3 +64,12 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 ## 如何撰寫自動佈署 production 腳本
 
 ## Rails 最新線上學習資源
+
+### Websites
+
+* [Ruby Inside](http://www.rubyinside.com/)
+* [RubyFlow](http://www.rubyflow.com/)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Tips](http://rubyquicktips.com/)
+* [Rails Tips](http://railstips.org)
+* [Ruby Toolbox](http://ruby-toolbox.com/)
