@@ -135,17 +135,24 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * [Ruby on Rails Rake Tutorial (aka. How rake turned me into an alcoholic)](http://jasonseifer.com/2010/04/06/rake-tutorial)
 * [What’s New in Edge Rails: Database Seeding](http://ryandaigle.com/articles/2009/5/13/what-s-new-in-edge-rails-database-seeding)
 
-## 如何建置 Bug Free Rails 正式 production 環境
+## 將論壇 deploy 到租來的 VPS
 
 ### 作業目標
 
-### 吸收觀念
-
-## 如何撰寫自動佈署 production 腳本
-
-### 作業目標
+在租來的 VPS 上面建置 Ruby on Rails production 環境，使用 Ruby 1.9 與 mod_rails。使用 [Capistrano](https://github.com/capistrano/capistrano/wiki) 佈署 application。
 
 ### 吸收觀念
+
+* cap deploy:setup
+* cap deploy 
+* cap deploy:rollback 
+* cap deploy:restart
+
+### 參考資料
+
+* [rails-nginx-passenger-ubuntu](https://github.com/jnstq/rails-nginx-passenger-ubuntu)
+* [AWDR4](http://pragprog.com/titles/rails4/agile-web-development-with-rails) 的 deploy 章節 , Rails Pocket Reference 的 Capistrano 章節
+
 
 ## Rails 最新線上學習資源
 
