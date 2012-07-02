@@ -22,8 +22,15 @@
 
 * [購買一台 Mac](#buy-a-mac)
 * [Learn Git and Command Line](#learn-git-and-command-line)
-* [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)]
-
+* [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)](#%E5%BB%BA%E7%BD%AE-bug-free-rails-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83)
+* [Rails : RESTful]
+* [實作使用者認證系統]
+* [為論壇加入管理者機制以及管理者後台]
+* [為論壇加上分頁機制]
+* [實作圖片上傳系統]
+* [利用 Rake 撰寫自動執行的 tasks]
+* [將論壇 deploy 到租來的 VPS]
+* [Rails 最新線上學習資源]
 ## Buy a Mac
 
 開發 Ruby on Rails 基本上強烈建議使用 OS X 10.6 + 以後作為開發平台。因為不少的 Rails ecosystem 都圍繞著 OSX。不用 Mac 開發基本上非常容易碰壁。
@@ -48,6 +55,9 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * Peepcode 的 [Meet the Command Line](https://peepcode.com/products/meet-the-command-line) $12 與 [Advanced Commandline](https://peepcode.com/products/advanced-command-line) $12。跟著練習裡面所有的指令
 
 ## 建置 Bug Free Rails 開發環境
+
+* [Mac] 版本：<http://blog.xdite.net/mac-lion-xcode-ruby-rails-192/>
+* Ubuntu 版本：[Rails 101](http://rails-101.logdown.com) 內有。
 
 ## Rails : RESTful , 雙層 Resource
 
@@ -105,7 +115,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * pagination : [will_paginate](https://github.com/mislav/will_paginate/wiki/)
 * [scope](http://railscasts.com/episodes/108-named-scope) :recent
 
-## Rails : 實作圖片上傳系統
+## 實作圖片上傳系統
 
 ### 作業目標
 
@@ -119,7 +129,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 [carrierwave](https://github.com/jnicklas/carrierwave)
 
-## Rails : 利用 Rake 撰寫自動執行的 tasks
+## 利用 Rake 撰寫自動執行的 tasks
 
 ### 作業目標
 
