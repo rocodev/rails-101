@@ -56,7 +56,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ## 建置 Bug Free Rails 開發環境
 
-* [Mac] 版本：<http://blog.xdite.net/mac-lion-xcode-ruby-rails-192/>
+* Mac 版本：<http://blog.xdite.net/mac-lion-xcode-ruby-rails-192/>
 * Ubuntu 版本：[Rails 101](http://rails-101.logdown.com) 內有。
 
 ## Rails : RESTful , 雙層 Resource
@@ -73,7 +73,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * before_filter :find_board
 
 
-## Rails : 實作使用者認證系統
+## 實作使用者認證系統
 
 ### 作業目標
 
