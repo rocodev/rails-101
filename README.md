@@ -14,6 +14,9 @@
 
 這份文件 是 [Rails 101](http://rails-101.logdown.com) 的部分公開資料。若您喜歡本書，請付費 [購買支持](http://rails-101.logdown.com)。
 
+另外要提醒的是，Rails 用「看的」並不會「達成任何效果」。而這本書裡面的每一個章節，都是身為 Rails Developer 中基本再基本的功夫，跳過任何一章只會讓你屆時在實戰中踢到更大的鐵板。建議讀者反覆練習寫到倒背如流。
+
+
 # Table of Content
 
 * [Buy a Mac](#buy-a-mac)
@@ -30,7 +33,7 @@
 
 ## Learn Git and Command Line
 
-Rails 的生態圈與 [Git](http://git-scm.com/) 和 Unix Command Line 綁的非常深。如果不熟悉的話建議購買以下教材實作練習：
+Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的入門者，建議購買以下教材實作練習：
 
 * Peepcode 的 [Git](https://peepcode.com/products/git) $12 ，練習以下七個指令
   - git commit
