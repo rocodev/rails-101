@@ -119,7 +119,21 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ### 作業目標
 
+用 Rake 撰寫自動化步驟，生假資料。
+
+寫一個 rake 可以達成以下步驟：「砍 db => 建 db => 跑 migration => 生種子資料」，另一個 rake 是生假文章與假論壇。
+
+
 ### 吸收觀念
+
+* rake -T
+* rake db:drop ; rake db:create ; rake db:migrate ; rake db:seed
+* rake dev:fake ( 自己寫 namespace : dev, 裡面放一個 task 叫做 fake，fake 資料用 Populator 生） # 請自行練習
+
+### 參考資料
+
+* [Ruby on Rails Rake Tutorial (aka. How rake turned me into an alcoholic)](http://jasonseifer.com/2010/04/06/rake-tutorial)
+* [What’s New in Edge Rails: Database Seeding](http://ryandaigle.com/articles/2009/5/13/what-s-new-in-edge-rails-database-seeding)
 
 ## 如何建置 Bug Free Rails 正式 production 環境
 
