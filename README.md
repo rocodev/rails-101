@@ -49,7 +49,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ## 建置 Bug Free Rails 開發環境
 
-## Rails : RESTful
+## Rails : RESTful , 雙層 Resource
 
 ### 作業目標
 
@@ -63,7 +63,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * before_filter :find_board
 
 
-## Rails : 雙層 Resource 與 Namespace
+## Rails : 實作使用者認證系統
 
 ### 作業目標
 
@@ -71,22 +71,47 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ### 吸收觀念
 
-* plugin 安裝與使用
+* plugin 安裝與使用 : devise
 * routes 優先權與 route alias
 * before_filter: login_required
 * session : current_user 
 * [before_filter](http://apidock.com/rails/ActionController/Filters/ClassMethods/before_filter)
 
+## 為論壇加入管理者機制以及管理者後台
 
-## Rails : 實作使用者認證系統
+### 作業目標
+
+實作簡單的 admin 機制， admin 擁有一個後台，可以刪改所有文章。admin 可以開板 / 刪板。網址是 http://forum_demo.dev/admin/boards 。只有身分是 admin 的人可以進後台。admin 的判別方是 column 裡加一個 boolean，判斷是否 admin。這個 attribute 必須用 attr_accessible / attr_protected 保護。
+
+### 吸收觀念
+
+* [attr_accessible](http://apidock.com/rails/v3.0.7/ActiveModel/MassAssignmentSecurity/ClassMethods/attr_accessible) / [attr_protected](http://apidock.com/rails/v3.0.7/ActiveModel/MassAssignmentSecurity/ClassMethods/attr_protected)
+* route : namespace
+* before_filter : require_is_admin
 
 ## Rails : 實作圖片上傳系統
 
+### 作業目標
+
+### 吸收觀念
+
 ## Rails : 利用 Rake 撰寫自動執行的 tasks
+
+### 作業目標
+
+### 吸收觀念
 
 ## 如何建置 Bug Free Rails 正式 production 環境
 
+### 作業目標
+
+### 吸收觀念
+
 ## 如何撰寫自動佈署 production 腳本
+
+### 作業目標
+
+### 吸收觀念
 
 ## Rails 最新線上學習資源
 
