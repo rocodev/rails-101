@@ -51,6 +51,18 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ## Rails : RESTful
 
+### 作業目標
+
+開發一個簡易論壇系統。系統要有 Board 與 Post 兩個 model，寫出 CRUD 介面，並且文章網址是使用 <http://forum_demo.dev/board/1/post/2> 這種表示。
+
+### 吸收觀念
+
+* CRUD & migration
+* has_many 與 belongs_to
+* resources 與雙層 resources
+* before_filter :find_board
+
+
 ## Rails : 雙層 Resource 與 Namespace
 
 ## Rails : 實作使用者認證系統
