@@ -71,7 +71,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ### 吸收觀念
 
-* plugin 安裝與使用 : devise
+* plugin 安裝與使用 : [devise](https://github.com/plataformatec/devise/)
 * routes 優先權與 route alias
 * before_filter: login_required
 * session : current_user 
@@ -81,7 +81,11 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ### 作業目標
 
-實作簡單的 admin 機制， admin 擁有一個後台，可以刪改所有文章。admin 可以開板 / 刪板。網址是 http://forum_demo.dev/admin/boards 。只有身分是 admin 的人可以進後台。admin 的判別方是 column 裡加一個 boolean，判斷是否 admin。這個 attribute 必須用 attr_accessible / attr_protected 保護。
+實作簡單的 admin 機制， admin 擁有一個後台，可以刪改所有文章。admin 可以開板 / 刪板。網址是 <http://forum_demo.dev/admin/boards> 。
+
+只有身分是 admin 的人可以進後台。admin 的判別方是 column 裡加一個 boolean，判斷是否 admin。
+
+這個 attribute 必須用 attr_accessible / attr_protected 保護。
 
 ### 吸收觀念
 
