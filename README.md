@@ -60,6 +60,8 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * Mac 版本：<http://blog.xdite.net/mac-lion-xcode-ruby-rails-192/>
 * Ubuntu 版本：[Rails 101](http://rails-101.logdown.com) 內有。
 
+延伸閱讀：[十個 Ruby Web Developer 應該熟悉的工具](http://blog.xdite.net/posts/2011/10/09/10-ruby-developer-must-have-tools/)
+
 ## Rails : RESTful , 雙層 Resource
 
 ### 作業目標
