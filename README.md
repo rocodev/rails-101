@@ -63,6 +63,10 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 延伸閱讀：[十個 Ruby Web Developer 應該熟悉的工具](http://blog.xdite.net/posts/2011/10/09/10-ruby-developer-must-have-tools/)
 
+### 開發工具
+
+建議使用 [Sublime Text 2](http://www.sublimetext.com/2) 支援跨平台：Win / Linux / Mac。
+
 ## Rails : RESTful , 雙層 Resource
 
 ### 作業目標
