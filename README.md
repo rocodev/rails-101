@@ -17,13 +17,16 @@
 # Table of Content
 
 * [Buy a Mac](#buy-a-mac)
-* 
+* [Learn Git and Command Line]
 
 ## Buy a Mac
 
 開發 Ruby on Rails 基本上強烈建議使用 OS X 10.6 + 以後作為開發平台。因為不少的 Rails ecosystem 都圍繞著 OSX。不用 Mac 開發基本上非常容易碰壁。
 
-## 硬體需求
+### 硬體需求
 
 * 一台 2009 後出款的 Mac Mini / Macbook Pro / Macbook Air 。
 * 4 - 8GB 以上的記憶體。（開發網站的時候，有實際開 VM 測 IE 的需求。）
+
+## Learn Git and Command Line
+
