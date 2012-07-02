@@ -17,7 +17,7 @@
 # Table of Content
 
 * [Buy a Mac](#buy-a-mac)
-* [Learn Git and Command Line]
+* [Learn Git and Command Line](#learn-git-and-command-line)
 
 ## Buy a Mac
 
@@ -30,3 +30,12 @@
 
 ## Learn Git and Command Line
 
+Rails 的生態圈與 [Git](http://git-scm.com/) 和 Unix Command Line 綁的非常深。如果不熟悉的話建議購買以下教材實作練習：
+
+* Peepcode 的 [Git](https://peepcode.com/products/git) $12 ，練習以下七個指令
+  - git commit
+  - git push
+  - git pull
+  - git branch
+  - git checkout
+  - git merge
