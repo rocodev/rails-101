@@ -22,7 +22,7 @@
 # 目錄
 
 * [購買一台 Mac](#buy-a-mac)
-* [Learn Git and Command Line](#learn-git-and-command-line)
+* [Learn : Git, Command Line, Ruby](#learn-git-and-command-line)
 * [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)](#%E5%BB%BA%E7%BD%AE-bug-free-rails-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83)
 * [Rails : RESTful](#rails--restful--%E9%9B%99%E5%B1%A4-resource)
 * [實作使用者認證系統](#%E5%AF%A6%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%8D%E8%AD%89%E7%B3%BB%E7%B5%B1)
@@ -42,7 +42,7 @@
 * 一台 2009 後出款的 Mac Mini / Macbook Pro / Macbook Air 。
 * 4 - 8GB 以上的記憶體。（開發網站的時候，有實際開 VM 測 IE 的需求。）
 
-## Learn Git and Command Line
+## Learn Git, Command Line, Ruby
 
 Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的入門者，建議購買以下教材實作練習：
 
@@ -55,6 +55,8 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
   - git merge
 
 * Peepcode 的 [Meet the Command Line](https://peepcode.com/products/meet-the-command-line) $12 與 [Advanced Commandline](https://peepcode.com/products/advanced-command-line) $12。跟著練習裡面所有的指令
+
+* Zed Shaw 曾出了一本小書「[Learn Ruby The Hard Way](http://lrthw.github.com/)」，有 52 個習題。歡迎做完它。
 
 ## 建置 Bug Free Rails 開發環境
 
