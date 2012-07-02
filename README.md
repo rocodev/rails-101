@@ -65,6 +65,19 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ## Rails : 雙層 Resource 與 Namespace
 
+### 作業目標
+
+為論壇加入使用者機制，使用者必須能夠 註冊 / 登入，登入後才可以發表 Post，不然只能瀏覽。只有自己的 Post 才能進行修改與刪除。
+
+### 吸收觀念
+
+* plugin 安裝與使用
+* routes 優先權與 route alias
+* before_filter: login_required
+* session : current_user 
+* [before_filter](http://apidock.com/rails/ActionController/Filters/ClassMethods/before_filter)
+
+
 ## Rails : 實作使用者認證系統
 
 ## Rails : 實作圖片上傳系統
