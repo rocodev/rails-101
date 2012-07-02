@@ -65,6 +65,20 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 ## Rails 最新線上學習資源
 
+### Podcast
+
+* [Ruby5](http://ruby5.envylabs.com/)
+* [Ruby Rogues](http://rubyrogues.com/)
+* [Thoughtbot Podcast](http://robots.thoughtbot.com/tagged/podcast)
+* [The Ruby Show](http://rubyshow.com/)
+
+### 商業教材
+
+* [Codeschool](http://codeschool.com)
+* [Railscast](http://railscast.com)
+* [DestroyAllSoftware](https://www.destroyallsoftware.com/)
+* [Peepcode](https://peepcode.com/)
+
 ### Websites
 
 * [Ruby Inside](http://www.rubyinside.com/)
