@@ -23,14 +23,15 @@
 * [購買一台 Mac](#buy-a-mac)
 * [Learn Git and Command Line](#learn-git-and-command-line)
 * [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)](#%E5%BB%BA%E7%BD%AE-bug-free-rails-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83)
-* [Rails : RESTful]
-* [實作使用者認證系統]
-* [為論壇加入管理者機制以及管理者後台]
-* [為論壇加上分頁機制]
-* [實作圖片上傳系統]
-* [利用 Rake 撰寫自動執行的 tasks]
-* [將論壇 deploy 到租來的 VPS]
-* [Rails 最新線上學習資源]
+* [Rails : RESTful](#rails--restful--%E9%9B%99%E5%B1%A4-resource)
+* [實作使用者認證系統](#%E5%AF%A6%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%8D%E8%AD%89%E7%B3%BB%E7%B5%B1)
+* [為論壇加入管理者機制以及管理者後台](#%E7%82%BA%E8%AB%96%E5%A3%87%E5%8A%A0%E5%85%A5%E7%AE%A1%E7%90%86%E8%80%85%E6%A9%9F%E5%88%B6%E4%BB%A5%E5%8F%8A%E7%AE%A1%E7%90%86%E8%80%85%E5%BE%8C%E5%8F%B0)
+* [為論壇加上分頁機制](%E7%82%BA%E8%AB%96%E5%A3%87%E5%8A%A0%E4%B8%8A%E5%88%86%E9%A0%81%E6%A9%9F%E5%88%B6)
+* [實作圖片上傳系統](#%E5%AF%A6%E4%BD%9C%E5%9C%96%E7%89%87%E4%B8%8A%E5%82%B3%E7%B3%BB%E7%B5%B1)
+* [利用 Rake 撰寫自動執行的 tasks](#%E5%88%A9%E7%94%A8-rake-%E6%92%B0%E5%AF%AB%E8%87%AA%E5%8B%95%E5%9F%B7%E8%A1%8C%E7%9A%84-tasks)
+* [將論壇 deploy 到租來的 VPS](#%E5%B0%87%E8%AB%96%E5%A3%87-deploy-%E5%88%B0%E7%A7%9F%E4%BE%86%E7%9A%84-vps)
+* [Rails 最新線上學習資源](#rails-%E6%9C%80%E6%96%B0%E7%B7%9A%E4%B8%8A%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90)
+
 ## Buy a Mac
 
 開發 Ruby on Rails 基本上強烈建議使用 OS X 10.6 + 以後作為開發平台。因為不少的 Rails ecosystem 都圍繞著 OSX。不用 Mac 開發基本上非常容易碰壁。
