@@ -22,7 +22,7 @@
 # 目錄
 
 * [購買一台 Mac](#buy-a-mac)
-* [Learn : Git, Command Line, Ruby](#learn-git-and-command-line)
+* [Learn : Git, Command Line, Ruby](#learn-git-command-line-ruby)
 * [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)](#%E5%BB%BA%E7%BD%AE-bug-free-rails-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83)
 * [Rails : RESTful](#rails--restful--%E9%9B%99%E5%B1%A4-resource)
 * [實作使用者認證系統](#%E5%AF%A6%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%80%85%E8%AA%8D%E8%AD%89%E7%B3%BB%E7%B5%B1)
