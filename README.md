@@ -18,10 +18,11 @@
 
 筆者建議的練習標準是：能夠在五分鐘之內用手寫出 RESTful 七個 action，讀者不妨可以試看看。
 
-# Table of Content
+# 目錄
 
-* [Buy a Mac](#buy-a-mac)
+* [購買一台 Mac](#buy-a-mac)
 * [Learn Git and Command Line](#learn-git-and-command-line)
+* [建置 Bug Free Rails 開發環境 (Mac/Ubuntu)]
 
 ## Buy a Mac
 
@@ -46,4 +47,20 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 
 * Peepcode 的 [Meet the Command Line](https://peepcode.com/products/meet-the-command-line) $12 與 [Advanced Commandline](https://peepcode.com/products/advanced-command-line) $12。跟著練習裡面所有的指令
 
+## 建置 Bug Free Rails 開發環境
 
+## Rails : RESTful
+
+## Rails : 雙層 Resource 與 Namespace
+
+## Rails : 實作使用者認證系統
+
+## Rails : 實作圖片上傳系統
+
+## Rails : 利用 Rake 撰寫自動執行的 tasks
+
+## 如何建置 Bug Free Rails 正式 production 環境
+
+## 如何撰寫自動佈署 production 腳本
+
+## Rails 最新線上學習資源
