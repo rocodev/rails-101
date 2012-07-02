@@ -89,11 +89,31 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
 * route : namespace
 * before_filter : require_is_admin
 
+## 為論壇加上分頁機制
+
+### 作業目標
+
+看板的文章要能夠分頁，每一頁 5 筆，每一個看板要秀出現在看板裡有多少 post 數量。可用 params 配合 scope 在文章列表排序。
+
+### 吸收觀念
+
+* [counter_cache](http://railscasts.com/episodes/23-counter-cache-column)
+* pagination : [will_paginate](https://github.com/mislav/will_paginate/wiki/)
+* [scope](http://railscasts.com/episodes/108-named-scope) :recent
+
 ## Rails : 實作圖片上傳系統
 
 ### 作業目標
 
+發表文章時可以順便夾帶一張附件。
+
 ### 吸收觀念
+
+[form_for](http://apidock.com/rails/ActionView/Helpers/FormHelper/form_for) multipart  # 內含多媒體要指定
+
+### 上傳檔案套件
+
+[carrierwave](https://github.com/jnicklas/carrierwave)
 
 ## Rails : 利用 Rake 撰寫自動執行的 tasks
 
