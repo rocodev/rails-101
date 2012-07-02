@@ -43,3 +43,7 @@ Rails 的生態圈與 Git 和 Unix Command Line 綁的非常深。不熟悉的�
   - git branch
   - git checkout
   - git merge
+
+* Peepcode 的 [Meet the Command Line](https://peepcode.com/products/meet-the-command-line) $12 與 [Advanced Commandline](https://peepcode.com/products/advanced-command-line) $12。跟著練習裡面所有的指令
+
+
